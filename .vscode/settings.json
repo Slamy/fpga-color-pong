@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "assert.h": "c",
+        "numbers": "cpp",
+        "cstdio": "cpp",
+        "cmath": "cpp",
+        "cstdlib": "cpp"
+    },
+    "editor.formatOnSave": true,
+    "verilog-formatter.istyle.style": "GNU",
+    "verilog.formatting.verilogHDL.formatter": "verible-verilog-format",
+    "verilog.formatting.iStyleVerilogFormatter.style": "GNU",
+    "verilog.formatting.veribleVerilogFormatter.arguments": "--indentation_spaces 4"
+}

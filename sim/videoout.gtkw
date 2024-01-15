@@ -1,0 +1,59 @@
+[*]
+[*] GTKWave Analyzer v3.3.116 (w)1999-2023 BSI
+[*] Mon Jan  1 18:01:37 2024
+[*]
+[dumpfile] "/home/andre/GIT/fpga_color_pong/sim/waveform.vcd"
+[dumpfile_mtime] "Mon Jan  1 17:59:08 2024"
+[dumpfile_size] 228240702
+[savefile] "/home/andre/GIT/fpga_color_pong/sim/videoout.gtkw"
+[timestart] 973604
+[size] 2560 1348
+[pos] -1 -1
+*-7.349982 974301 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] TOP.
+[treeopen] TOP.top_color_pong.
+[treeopen] TOP.top_color_pong.cvbs.
+[treeopen] TOP.top_color_pong.cvbs.secam.
+[treeopen] TOP.top_color_pong.video_timing0.
+[sst_width] 303
+[signals_width] 360
+[sst_expanded] 1
+[sst_vpaned_height] 415
+@24
+TOP.top_color_pong.game.pixel_x[9:0]
+@22
+TOP.top_color_pong.game.rgbconv_Y[7:0]
+@28
+TOP.top_color_pong.game.visible_window
+@22
+TOP.top_color_pong.game.R_d[7:0]
+TOP.top_color_pong.game.G_d[7:0]
+TOP.top_color_pong.game.B_d[7:0]
+TOP.top_color_pong.game.luma[7:0]
+@28
+TOP.top_color_pong.game.clk
+TOP.top_color_pong.game.newpixel
+@22
+TOP.top_color_pong.game.yuv_u[7:0]
+TOP.top_color_pong.game.yuv_v[7:0]
+TOP.top_color_pong.game.R_q[7:0]
+TOP.top_color_pong.game.B_q[7:0]
+TOP.top_color_pong.game.G_q[7:0]
+TOP.top_color_pong.cvbs.secam.yuv_u[7:0]
+TOP.top_color_pong.cvbs.secam.yuv_v[7:0]
+TOP.top_color_pong.cvbs.secam.enabled_amplitude_filtered[5:0]
+TOP.top_color_pong.cvbs.secam.enabled_amplitude[5:0]
+TOP.top_color_pong.cvbs.secam.carrier_period_emphasis[8:0]
+@420
+TOP.top_color_pong.cvbs.secam.carrier_period_filtered[8:0]
+@8420
+TOP.top_color_pong.cvbs.secam.carrier_period_filtered[8:0]
+@20000
+-
+-
+-
+@421
+TOP.top_color_pong.cvbs.secam.chlo.in[8:0]
+TOP.top_color_pong.cvbs.secam.chlo.out[8:0]
+[pattern_trace] 1
+[pattern_trace] 0
