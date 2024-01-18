@@ -1,3 +1,7 @@
 /gowin/fpga_color_png.gprj.user
 /sim/waveform.vcd
 /sim/obj_dir
+/kicad/circuit/circuit-backups
+/kicad/circuit/fp-info-cache
+
+

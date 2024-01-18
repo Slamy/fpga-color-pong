@@ -14,7 +14,7 @@ This design is based on my [Composite Video Encoder](https://github.com/Slamy/fp
 
 ## Schematic
 
-TODO
+![Schematic of Video DAC and Paddle connection](kicad/circuit/circuit.svg)
 
 ## Screenshots and Photos
 
@@ -24,15 +24,15 @@ Example setup on a bread board.
 
 ### PAL
 
-TODO
+![VLC screenshot of PAL picture](doc/pal.png)
 
 ### NTSC
 
-TODO
+![VLC screenshot of NTSC picture](doc/ntsc.png)
 
 ### SECAM
 
-TODO
+![VLC screenshot of SECAM picture](doc/secam.png)
 
-SECAM currently suffers badly under "SECAM fire". I'm not able to fix that at the moment.
+SECAM currently suffers under "SECAM fire". I'm not able to fix that at the moment.
 
